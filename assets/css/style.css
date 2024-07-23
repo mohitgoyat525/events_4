@@ -295,6 +295,9 @@
     line-height: normal;
     cursor: pointer;
 }
+.about:hover{
+    text-decoration: underline;
+}
 
 .show-more {
     width: 43px;
