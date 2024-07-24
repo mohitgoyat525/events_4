@@ -50,6 +50,11 @@
     border: 2px solid #2C49FE;
 
 }
+.nav-bg-img{
+    background-image: url(/assets/images/bg-img.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .gap30 {
     gap: 30px;
@@ -58,8 +63,8 @@
 .nav-bar {
     background-size: cover;
     background-repeat: repeat;
-    background-image: url(/assets/images/bg-img.png);
-
+  
+    
     margin-bottom: 67px;
 
 }
