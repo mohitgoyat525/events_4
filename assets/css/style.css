@@ -63,12 +63,16 @@
 .nav-bar {
     background-size: cover;
     background-repeat: repeat;
-  
-    
-    margin-bottom: 67px;
-
+     margin-bottom: 67px;
 }
-
+.nav-bg-img{
+    background-image:url(/assets/images/bg-img.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cursor{
+    cursor: pointer;
+}
 .Events {
     font-family: "Poppins", sans-serif;
     font-size: var(--fs-36);
